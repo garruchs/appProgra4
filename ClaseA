@@ -1,0 +1,8 @@
+public int clase4
+{
+private int x;
+public claseA()
+{
+x=0;
+}
+}
