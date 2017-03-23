@@ -1,8 +1,10 @@
 public int clase4
 {
-private int x;
+private double x;
+private String y;
 public claseA()
 {
-x=0;
+x=0.0;
+y="";
 }
 }
